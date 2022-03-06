@@ -1,11 +1,5 @@
 #!usr/bin/python3
 
-# Filename: m4p2.py
-# Author: Mandeep Parihar
-# Course: ITSC-204
-# Details: A program that collects a list of all running processes and then prompts the user which process they wish to see in detail.
-# Resources: Maybe one day I will stop closing all of the things I look up before realizing I can't add them here.
-
 import os
 import psutil
 
